@@ -8,11 +8,11 @@ Personally, I'm not a quick thinker when it comes to arithmetic. Sometimes, I ne
 keyboard. While web browsers already do this, opening the browser or creating a new page might cost a little of time. So, I like it, and also, the purpose of this
 project is to learn git/github and to have a excuse to program.
 
-# Usage
+## Usage
 
 Currently, this project is empty. But I want to make something like this:
 
-´´´bash
+```bash
 asc 10 * 20 - 4 / 4 + sqrt(25)
 result: 204
-´´´
+```
